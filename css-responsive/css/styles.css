@@ -1,0 +1,33 @@
+body{
+    background-color: #D5E27B;
+}
+@media screen and (max-width:1920px){
+    body{
+        background-color: #C6EDE7;
+    }
+}
+@media screen and (max-width:1280px){
+    body{
+        background-color: #7D9340;
+    }
+}
+@media screen and (max-width:800px){
+    body{
+        background-color: #58e07a;
+    }
+}
+@media screen and (max-width:480px){
+    body{
+        background-color: #F8DBD3;
+    }
+}
+.bg-light-custom{
+    background-color: #F6E901;
+    height: 80px;
+}
+main{
+    font-size: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
